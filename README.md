@@ -1,0 +1,2 @@
+# ArraysPractice
+Practicing with Arrays
